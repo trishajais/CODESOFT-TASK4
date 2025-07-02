@@ -123,16 +123,8 @@ pip install -r requirements.txt
 ### 3. Run the notebook
 
 ```bash
-jupyter notebook SALES_PREDICTION.ipynb
 ```
 
 ---
 
 Feel free to contribute or raise an issue. Happy Coding! 💻
-
-```
-
----
-
-Would you like me to generate a `requirements.txt` file or include sample data?
-```
